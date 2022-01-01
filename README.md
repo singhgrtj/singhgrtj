@@ -2,14 +2,16 @@
 
 I work as a front-end developer with UI/UX design skills (front-end designer). I´m based in Majorca, Spain.
 
-Since 2020 I've been living and breathing web development and creating modern and user friendly interfaces. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code. ✨😍
+Since 2020 I've been living and breathing web development and creating modern and user friendly interfaces. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code. ✨😍.
+
+I really like to travel, before the Covid-19 I have visited cities in Spain, India and UK. Currently I'm in USA 🇺🇸.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
   
 - 📚 Currently improving my React skills with a server-side rendering called Next JS. 
-- 📚 Also getting started with AWS Amplify and GraphQL.
+- 📚 I would love to learn AWS Amplify and GraphQL.
 - 📧 How to reach me: <singhgrtj@gmail.com> 
 - 🧭 My personal website: [singhgrtj.com](https://www.google.com/)
 
