@@ -13,7 +13,7 @@ I really like to travel, before the Covid-19 I have visited cities in Spain, Ind
 - 📚 Currently improving my React skills with a server-side rendering called Next JS. 
 - 📚 I would love to learn AWS Amplify and GraphQL.
 - 📧 How to reach me: <singhgrtj@gmail.com> 
-- 🧭 My personal website: [singhgrtj.com](https://www.google.com/)
+- 🧭 My personal website: [singhgrtj.com](http://singhgrtj.com/)
 
 
 ### Languages and tools
@@ -24,6 +24,6 @@ I really like to travel, before the Covid-19 I have visited cities in Spain, Ind
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/singhgrtj/)
 
-### 📈 My Github stats
+### 📈 My personal website
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=singhgrtj&show_icons=true&theme=gotham" alt="singhgrtj" />
+[singhgrtj.com](http://singhgrtj.com/)
