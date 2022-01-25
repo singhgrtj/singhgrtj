@@ -1,10 +1,10 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Gurtej Kaur Singh.
 
-I work as a front-end developer with UI/UX design skills (front-end designer). I´m based in Majorca, Spain.
+I work as a front-end developer with UI design skills (front-end designer). I´m based in Majorca, Spain.
 
 Since 2020 I've been living and breathing web development and creating modern and user friendly interfaces. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code. ✨😍.
 
-I really like to travel, before the Covid-19 I have visited cities in Spain, India and UK. Currently I'm in USA 🇺🇸.
+I love to travel, before the Covid-19 I have visited cities in Spain 🇪🇸, India 🇮🇳, UK 🇬🇧, recently I was in USA 🇺🇸. 
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
